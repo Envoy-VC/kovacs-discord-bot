@@ -49,25 +49,7 @@
 
 Be sure to follow the [license](https://github.com/Envoy-VC/kovacs-discord-bot/blob/master/LICENSE) <br>
 <br>
-Here are the steps that you can follow to sefhost Kovacs which would work with <b>most</b> hosting providers:
-
-- Clone the repo: <br>
-
-    ```
-    $ git clone https://github.com/Envoy-VC/kovacs-discord-bot.git
-    ```
-- Install all the required packages: <br>
-
-    ```
-    $ pip install -r requirements.txt 
-    ```
-- Setup the [`.env`](https://github.com/Envoy-VC/kovacs-discord-bot/blob/master/.env) file.
-- Run the bot: <br>
-
-    ```
-    $ python main.py 
-    ```
-- [Enjoy!](https://discord.gg/R3QJpAf5bk)
+Here are the steps that you can follow to sefhost Kovacs - https://github.com/Envoy-VC/kovacs-selfhost-guide
 
 <h4><b>Note:</b> We do not provide support for self-hosting. If you are unable to self host Kovacs by yourself, just contact me.</h4>
 
