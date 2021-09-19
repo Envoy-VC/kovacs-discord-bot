@@ -1,0 +1,74 @@
+[
+    {
+        "name":"gtx1080ti",
+        "full_name":"GTX 1080 Ti",
+        "price": 1640,
+        "efficiency":53
+    },
+    {
+        "name":"gtx1660ti",
+        "full_name":"GTX 1660 Ti",
+        "price": 1318,
+        "efficiency":25
+    },
+    {
+        "name":"gtx1660",
+        "full_name":"GTX 1660",
+        "price": 1272,
+        "efficiency":15
+    },
+    {
+        "name":"gtx1660super",
+        "full_name":"GTX 1660 Super",
+        "price": 1444,
+        "efficiency":27
+    },
+    {
+        "name":"rtx2060",
+        "full_name":"RTX 2060",
+        "price": 1526,
+        "efficiency":31
+    },
+    {
+        "name":"rtx2070",
+        "full_name":"RTX 2070",
+        "price": 1914,
+        "efficiency":55
+    },
+    {
+        "name":"rtx2080",
+        "full_name":"RTX 2080",
+        "price": 2018,
+        "efficiency":56
+    },
+    {
+        "name":"rtx2080ti",
+        "full_name":"RTX 2080 Ti",
+        "price": 2578,
+        "efficiency":90
+    },
+    {
+        "name":"rtx3060",
+        "full_name":"RTX 3060",
+        "price": 1974,
+        "efficiency":67
+    },
+    {
+        "name":"rtx3070",
+        "full_name":"RTX 3070",
+        "price": 2908,
+        "efficiency":97
+    },
+    {
+        "name":"rtx3080",
+        "full_name":"RTX 3080",
+        "price": 3832,
+        "efficiency":101
+    },
+    {
+        "name":"rtx3090",
+        "full_name":"RTX 3090",
+        "price": 5740,
+        "efficiency":214
+    }
+]
