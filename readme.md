@@ -13,7 +13,7 @@
 
 ## Discord Support
 
-<a href="https://discord.gg/R3QJpAf5bk"><img src="https://discordapp.com/api/guilds/885559521085362177/widget.png?style=banner2"></a>
+<a href="https://discord.gg/aukNkKTeQG"><img src="https://discordapp.com/api/guilds/885559521085362177/widget.png?style=banner2"></a>
 
 <h2><img src="https://cdn.discordapp.com/emojis/766498653753049109.png?v=1" height="20px"> • Info</h2>
 
